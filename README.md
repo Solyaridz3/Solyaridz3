@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Solyaridz3
 - 👀 I’m interested in Go, Python, Django
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @solyaridz3 telegram/instagram 
 
 <!---
