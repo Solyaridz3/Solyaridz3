@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Solyaridz3
-- 👀 I’m interested in Backend, Go, Python, Django
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in Backend, Python, Django.
+- 🌱 I’m currently learning Python, Djnago
 - 📫 How to reach me @solyaridz3 telegram/instagram 
 
 <!---
