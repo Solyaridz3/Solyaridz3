@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Solyaridz3
+- 👋 Hi, I’m Serhiy Vinarchuk @Solyaridz3
 - 👀 I’m interested in Backend using Node js, Express, Python, Django.
 - 🌱 I’m currently learning Node js, Express.
 - 💡 How to reach me: @solyaridz3 - telegram/instagram.
