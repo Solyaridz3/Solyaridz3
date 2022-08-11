@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.
 - 💡 How to reach me: @solyaridz3 - telegram/instagram.
 - 📫 About me:<br/>
-JavaScript/Node developer. Focused on web- develpment and creating APIs, have non- comercial development experience with
+JavaScript/Node developer. Focused on web- develpment and creating APIs, have non-comercial development experience with
 Express, Typescript, MongoDB, React , HTML, CSS. I have previous development experience with Python, Django, Heroku, PostgreSQL, Cloudinary. I know English at an intermediate level. Able to read documentation fluently. I am motivated, a quick learner, ready to devote all my time to work and improving my skills.
 <!---
 Solyaridz3/Solyaridz3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
