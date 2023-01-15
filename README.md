@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Serhiy Vinarchuk @Solyaridz3
 - 👀 I’m interested in Web-development using Python, Django, Node js, Express, React.
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning Python APIs, React Fronend.
 - 💡 How to reach me: @solyaridz3 - telegram/instagram.
 - 📫 About me:<br/>
 JavaScript/Node developer. Focused on web- develpment and creating APIs, have non-comercial development experience with
